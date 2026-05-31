@@ -1,3 +1,2 @@
-venv
-uploads
-
+node_modules
+.env
